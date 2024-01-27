@@ -1,5 +1,5 @@
 <h1>Website Description Finder</h1>
-<h2>how to Install</h2>
+<h2>How to Install</h2>
 <p>First, install requirements:</p>
 
 ```
